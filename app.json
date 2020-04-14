@@ -1,0 +1,17 @@
+{
+  "name": "novomateusapp",
+  "displayName": "novomateusapp",
+  "expo": {
+    "name": "novomateusapp",
+    "slug": "novomateusapp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
